@@ -20,5 +20,7 @@ From our data, we were able to infer that with a low purchase volume, there beco
 We would have liked to set up a Prophet model for each of the states so that we could more concretely say which state would have the cheapest avocados. We would have liked to run a Recurrent Neural Net (such as an LSTM model), to better train our model for inconsistencies (i.e. we noticed a spike in prices for both types in 2017) and compare it to our Prophet models.
 
 [CSV files we used and/or created](csv_files)
+
 [Images used in our presentation](Images)
+
 [Link to Google Slides presentation](https://docs.google.com/presentation/d/1agMnZlSJ_Yi2I5V7aAK3pCDMi5aqE0XjpWvwhwsB0iI/edit?ts=5eea2515#slide=id.g54dda1946d_6_358)
